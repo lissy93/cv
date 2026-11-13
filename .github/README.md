@@ -1,6 +1,6 @@
 <h1 align="center">Alicia Sykes - CV</h1>
 <p align="center">
-<a href="https://github.com/Lissy93/cv"><img src="https://i.ibb.co/G4vGDwtD/cv-logo.png?" width="48" /><br /></a>
+<a href="https://github.com/Lissy93/cv"><img src="https://pixelflare.cc/alicia/logo/cv/w128" width="48" /><br /></a>
 <i>This repo contains the source for my personal CV</i>
 <br />
 <i>A website (Svelte) and PDF (LaTeX) auto-built from jsonresume data</i>
@@ -111,7 +111,7 @@ The source for the website version is located in [`web/`](/web)
 ## Screenshot
 
 <h3 align="center">Web 🌐</h3>
-<p align="center"><a href="https://cv.aliciasykes.com"><img width="650" src="https://i.ibb.co/7NjgmHC/alicia-sykes-cv-mockup.png" /></a></p>
+<p align="center"><a href="https://cv.aliciasykes.com"><img width="650" src="https://pixelflare.cc/alicia/project-screens/alicia-sykes-cv-laptop" /></a></p>
 
 <h3 align="center">PDF 📄</h3>
 <p align="center"><a href="https://cv.aliciasykes.com"><img width="650" src="https://i.ibb.co/ycsHkjdF/screenshot-pdf.png?" /></a></p>
@@ -156,7 +156,7 @@ No point in raising issues here. It works on my machine. Therefore I see no issu
 
 ## License
 
-> _**[Lissy93/CV](https://github.com/Lissy93/cv)** is licensed under [MIT](https://github.com/Lissy93/cv/blob/HEAD/LICENSE) © [Alicia Sykes](https://aliciasykes.com) 2025._<br>
+> _**[Lissy93/CV](https://github.com/Lissy93/cv)** is licensed under [MIT](https://github.com/Lissy93/cv/blob/HEAD/LICENSE) © [Alicia Sykes](https://aliciasykes.com) 2024 - present._<br>
 > <sup align="right">For information, see <a href="https://tldrlegal.com/license/mit-license">TLDR Legal > MIT</a></sup>
 
 <details>
@@ -188,9 +188,9 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <!-- License + Copyright -->
 <p  align="center">
-  <i>© <a href="https://aliciasykes.com">Alicia Sykes</a> 2025</i><br>
+  <i>© <a href="https://aliciasykes.com">Alicia Sykes</a> 2024</i><br>
   <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
-  <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
+  <a href="https://github.com/lissy93"><img src="https://pixelflare.cc/alicia/images/octoface.webp?w=64" /></a><br>
   <sup>Thanks for visiting :)</sup>
 </p>
 
